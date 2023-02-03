@@ -1,0 +1,13 @@
+.input{
+    background-color: transparent;
+    padding: 0.5rem;
+    color: whitesmoke;
+    border: 1px solid whitesmoke;
+    margin-bottom: 1rem;
+}
+.w-100{
+    width: 100%;
+}
+.w-48{
+    width: 48%;
+}

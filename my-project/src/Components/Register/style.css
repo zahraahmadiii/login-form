@@ -1,0 +1,19 @@
+h2{
+    color: white;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+}
+.fullName{
+    width: 100%;
+    display: flex;
+   justify-content: space-between;
+
+
+}
+/* .pass-email{
+    width: 100%;
+} */
