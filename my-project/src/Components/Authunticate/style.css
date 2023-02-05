@@ -1,7 +1,7 @@
 .container{
     background-color: rgb(67, 67, 67);
     width: 30vw;
-    height: 60vh;
+    height: fit-content;
     padding: 2rem;
 }
 .btn-container{

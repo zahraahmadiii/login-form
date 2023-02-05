@@ -1,0 +1,11 @@
+.eyeIcon{
+color: white;
+    position: absolute;
+    left: 7px;
+    top: 7px;
+}
+
+.pos-relative{
+    position: relative;
+    width: 100%;
+}
